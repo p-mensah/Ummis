@@ -99,8 +99,8 @@ The database is auto-seeded on first run with two default accounts:
 
 | Role | Email | Password |
 |------|-------|----------|
-| Admin | `admin@admin.com` | `Password` |
-| Staff | `staff@staff.com` | `Password` |
+| Admin | `admin email` | `Password` |
+| Staff | `staff email` | `Password` |
 
 > **Security note:** Change these credentials immediately in production.
 
